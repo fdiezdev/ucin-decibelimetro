@@ -19,7 +19,7 @@
 // Si no querés calibrar ahora, dejalo en 0 y vas a ver solo dBFS.
 // Para obtener dB SPL: medir con calibrador (por ejemplo 94 dB) ->
 // medir dBFS_reportado -> calibration_offset_db = known_dB - measured_dBFS.
-const double calibration_offset_db = 35.15; // <-- reemplazá con tu valor después de calibrar
+const double calibration_offset_db = 124.65; // <-- reemplazá con tu valor después de calibrar
 // -------------------------------------------
 
 // I2S config
